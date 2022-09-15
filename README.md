@@ -44,5 +44,3 @@ The KP281 is an entry-level treadmill that sells for $1,500.
 The KP481 is for mid-level runners that sell for $1,750.
 
 The KP781 treadmill is having advanced features that sell for $2,500.
-
-**Problem Statement:** Your job as a Data-Scientist is to perform statistic analysis on dataset and suggest recommendation based on results for Aerofit
