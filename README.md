@@ -13,7 +13,7 @@ by developing appropriate tables and charts.
 For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and 
 marginal probabilities along with their insights/impact on the business.
 
-**Dataset link:** Aerofit_treadmill.csv
+**Dataset link:** Aerofit_treadmill.txt
 
 **Dataset**
 
